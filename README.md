@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meet Thakkar
-- 👀 I’m interested in Physics, Competitive Programming and DSA.
+- 👀 I’m interested in Deep Learning, Computer Vision and Natural Language Processing.
 - 🌱 I’m currently pursuing B.Tech Engineering Physics
 
 Hackerrank profile - https://www.hackerrank.com/meetjsthakkar
